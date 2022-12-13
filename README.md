@@ -23,7 +23,7 @@ const Artur = {
         tecnologias: {
             frontEnd: undefined,
             backEnd: {
-                Javascript: ['Node.js', 'Express', 'Typescript', 'Mongoose']
+                Javascript: ['Node.js', 'Express', 'Typescript']
             },
         },
     }
