@@ -17,14 +17,15 @@ const Artur = {
     pessoal: {
         nomeCompleto: 'Artur Assis Guerra',
         aniversario: '2005-03-16',
-        interesses: ['games', 'desenvolvimento', 'musica'],
+        interesses: ['games', 'desenvolvimento pessoal', 'econômia/finanças', 'emrpeendedorismo'],
     },
     tecnico: {
         tecnologias: {
             frontEnd: undefined,
             backEnd: {
-                nodeJS: ['Typescript', 'Express']
+                nodeJS: ['Javascript', 'Typescript', 'Express']
             },
+            mobile: undefined,
         },
     }
 }
