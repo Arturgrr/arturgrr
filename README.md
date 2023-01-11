@@ -21,11 +21,8 @@ const Artur = {
     },
     tecnico: {
         tecnologias: {
-            frontEnd: undefined,
-            backEnd: {
-                nodeJS: ['Javascript', 'Typescript', 'Express']
+            linguagens: ['Javascript', 'Typescript', 'Python', 'Java', 'Kotlin']
             },
-            mobile: undefined,
         },
     }
 }
@@ -41,6 +38,9 @@ const Artur = {
 <div style="display: inline_block">            
 <img align="left" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 <img align="right" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
 <img align="right" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <br>
