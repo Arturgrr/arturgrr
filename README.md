@@ -22,7 +22,7 @@ const Artur = {
     tecnico: {
         tecnologias: {
             linguagens: ['Javascript', 'Typescript', 'Python', 'Java', 'Kotlin', 'C'],
-            databases: ['MongoDB', 'PostgreeSQL', 'MySQL']
+            databases: ['MongoDB', 'PostgreeSQL', 'MySQL'],
             outros: ['NodeJS']
             },
         },
