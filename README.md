@@ -21,7 +21,7 @@ const Artur = {
     },
     tecnico: {
         tecnologias: {
-            linguagens: ['Javascript', 'Typescript', 'Python', 'Java', 'Kotlin'],
+            linguagens: ['Javascript', 'Typescript', 'Python', 'Java', 'Kotlin', 'C'],
             databases: ['MongoDB', 'PostgreeSQL', 'MySQL']
             outros: ['NodeJS']
             },
@@ -43,6 +43,7 @@ const Artur = {
 <img align="left" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+<img align="left" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="right" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
 <img align="right" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="right" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
