@@ -1,4 +1,4 @@
-## Olá, eu sou o Artur, desenvolvedor Backend! 👋
+## Olá, eu sou o Artur, desenvolvedor Full-stack! 👋
 
 <div align="center">
 
