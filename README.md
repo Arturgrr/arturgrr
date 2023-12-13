@@ -1,42 +1,5 @@
 ## Olá, eu sou o Artur, desenvolvedor Full-stack! 👋
 
-<div align="center">
-
-<br>
-
-Deletei todos os meus repositórios antigos ;-;
-
-<img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200" />
-
-<details>
-  <summary>Clique para ver mais sobre mim!</summary>
-<div align="left">
- 
-``` js
-const Artur = {
-    pessoal: {
-        nomeCompleto: 'Artur Assis Guerra',
-        aniversario: '2005-03-16',
-        interesses: ['games', 'desenvolvimento pessoal', 'econômia/finanças', 'emrpeendedorismo'],
-    },
-    tecnico: {
-        tecnologias: {
-            linguagens: ['Javascript', 'Typescript', 'Python', 'Java', 'Kotlin', 'C'],
-            databases: ['MongoDB', 'PostgreeSQL', 'MySQL'],
-            outros: ['NodeJS']
-            },
-        },
-    }
-}
-```
-</div>
-</details>
-</div>
-
-##
-
-<br>
-
 <div style="display: inline_block">            
 <img align="left" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -68,7 +31,3 @@ const Artur = {
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arturgrr&show_icons=true&count_private=true&hide_border=true&title_color=FFFAFA&icon_color=FFFAFA&text_color=D3D3D3&bg_color=000000" alt="Artur Guerra github stats" /> 
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturgrr&layout=compact&hide_border=true&title_color=FFFAFA&text_color=FFFAFA&bg_color=000000" />
 <div>
-
-<p align="center">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=arturgrr&theme=high-contrast&area=true&hide_border=true" width="100%">
-</p>
