@@ -1,4 +1,4 @@
-## Olá, eu sou o Artur, desenvolvedor Full-stack! 👋
+## Olá, eu sou o Artur, desenvolvedor Back-end! 👋
 
 <div style="display: inline_block">            
 <img align="left" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
