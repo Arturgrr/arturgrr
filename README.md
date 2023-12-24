@@ -22,7 +22,6 @@
     <a href = "mailto:arturassisguerra@gmai.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-##
 
 <div align="center">  
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arturgrr&show_icons=true&count_private=true&hide_border=true&title_color=FFFAFA&icon_color=FFFAFA&text_color=D3D3D3&bg_color=000000" alt="Artur Guerra github stats" /> 
