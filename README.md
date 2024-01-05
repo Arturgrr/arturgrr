@@ -47,5 +47,5 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arturgrr&theme=dark&hide_border=false" width="470" height="300" align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=arturgrr&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="470" height="300" align="right">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arturgrr&theme=dark&hide_border=false" width="200" height="300" align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=arturgrr&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="200" height="300" align="right">
