@@ -3,7 +3,7 @@
 <h3 align="center">A dedicated back-end developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/QDjpIL6oNCVZ4qzGs7.webp">
 
-- 🌱 I’m currently learning **more abbout AI**
+- 🌱 I’m currently learning **next.js**
 
 - 📫 U can reach me artur@assisguerra.com.br
 
